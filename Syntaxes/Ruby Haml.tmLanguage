@@ -336,7 +336,7 @@
 			<key>end</key>
 			<string>^(?!\1\s)</string>
 			<key>name</key>
-			<string>source.js</string>
+			<string>source.js.jquery</string>
 			<key>patterns</key>
 			<array>
 				<dict>
